@@ -19,10 +19,15 @@ Add your code in a ruleEngine.ts file.
 
 **Compile the TypeScript code:**
 npx tsc ruleEngine.ts
+or
+npx tsc
+
 
 
 **Run the JavaScript file:**
 node ruleEngine.js
+or
+node dist/src/index.js
 
 
 
